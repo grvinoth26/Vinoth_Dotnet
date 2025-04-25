@@ -8,7 +8,7 @@ namespace StudentRecordManagementSystem.Utility
     public static class ConnectionString
     {
 
-        private static string cName = "Data Source=.;  Initial Catalog=StudentManagement;User ID=sa;Password=123";
+        private static string cName = "Data Source=LAPTOP-FRAFK372\\SQLEXPRESS;Initial Catalog=StudentManagement;Integrated Security=True;";
 
         public static string CName { get => cName; }
     }
