@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/StudentRecordManagementSystem/FileContentIndex
+/StudentRecordManagementSystem/obj/Debug/net8.0/StudentRecordManagementSystem.sourcelink.json
+/StudentRecordManagementSystem/obj/Debug/net8.0/StudentRecordManagementSystem.dll
+/StudentRecordManagementSystem/obj/Debug/net8.0/StudentRecordManagementSystem.AssemblyInfoInputs.cache
+/StudentRecordManagementSystem/obj/Debug/net8.0/StudentRecordManagementSystem.pdb
+/StudentRecordManagementSystem/obj/Debug/net8.0/StudentRecordManagementSystem.AssemblyInfo.cs
+/StudentRecordManagementSystem/obj/Debug/net8.0/apphost.exe
+/StudentRecordManagementSystem/obj/Debug/net8.0/refint/StudentRecordManagementSystem.dll
+/StudentRecordManagementSystem/obj/Debug/net8.0/ref/StudentRecordManagementSystem.dll
+/StudentRecordManagementSystem/bin/Debug/net8.0/StudentRecordManagementSystem.dll
+/StudentRecordManagementSystem/bin/Debug/net8.0/StudentRecordManagementSystem.exe
+/StudentRecordManagementSystem/bin/Debug/net8.0/StudentRecordManagementSystem.pdb
+/.vs/StudentRecordManagementSystem/v17/.suo
+/.vs/StudentRecordManagementSystem/v17/DocumentLayout.backup.json
+/.vs/StudentRecordManagementSystem/v17/DocumentLayout.json
