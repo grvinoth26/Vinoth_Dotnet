@@ -27,6 +27,8 @@ namespace StudentRecordManagementSystem.Controllers
         public ActionResult Details(int id)
         {
             Student student = studentDataAccessLayer.GetStudentData(id);
+
+            student.ImageFileName = "https://picsum.photos/300";
             return View(student);
            
         }
@@ -36,7 +38,7 @@ namespace StudentRecordManagementSystem.Controllers
         {
             return View();
         }
-
+            
         // POST: Student/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -102,5 +104,8 @@ namespace StudentRecordManagementSystem.Controllers
                 return View();
             }
         }
+
+
+
     }
 }

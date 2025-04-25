@@ -31,15 +31,18 @@
         </dl>
     </div>
 
-    <div class="col-md-4 text-center">
-        @if (!string.IsNullOrEmpty(Model.ImageFileName))
-        {
-            <img src="~/images/@Model.ImageFileName" alt="Student Photo" class="img-thumbnail" style="max-width: 100%; height: auto;" />
-        }
-        else
-        {
-            <img src="~/images/banner2.svg" alt="Default Photo" class="img-thumbnail" style="max-width: 100%; height: auto;" />
-        }
+    <div class="text-center">
+        <div class="text-center">
+            @if (!string.IsNullOrEmpty(Model.ImageFileName))
+            {
+                <img src="@Model.ImageFileName" alt="Random Student Photo" class="img-fluid" style="width: 600px; height: auto;" />
+            }
+            else
+            {
+                <img src="@Url.Content("~/images/banner2.svg")" alt="Default Photo" class="img-fluid" style="width: 600px; height: auto;" />
+            }
+        </div>
+
     </div>
 </div>
 
