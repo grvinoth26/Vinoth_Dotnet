@@ -6,49 +6,45 @@
 
 <h2>Details</h2>
 
-<div>
-    <h4>Student</h4>
-    <hr />
-    <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.Id)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.Id)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.FirstName)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.FirstName)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.LastName)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.LastName)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.Email)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.Email)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.Mobile)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.Mobile)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.Address)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.Address)
-        </dd>
-    </dl>
+<div class="row">
+    <div class="col-md-8">
+        <h4>Student</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Id)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Id)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.FirstName)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.FirstName)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.LastName)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.LastName)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Email)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Email)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Mobile)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Mobile)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Address)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Address)</dd>
+        </dl>
+    </div>
+
+    <div class="col-md-4 text-center">
+        @if (!string.IsNullOrEmpty(Model.ImageFileName))
+        {
+            <img src="~/images/@Model.ImageFileName" alt="Student Photo" class="img-thumbnail" style="max-width: 100%; height: auto;" />
+        }
+        else
+        {
+            <img src="~/images/banner2.svg" alt="Default Photo" class="img-thumbnail" style="max-width: 100%; height: auto;" />
+        }
+    </div>
 </div>
-<div>
-    @Html.ActionLink("Edit", "Edit", new {  id = Model.Id  }) |
-    <a asp-action="Index">Back to List</a>
+
+<div class="mt-3">
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-warning rounded-pill" })
+    <span class="mx-2">|</span>
+    <a asp-action="Index" class="btn btn-success rounded-pill">Back to List</a>
 </div>

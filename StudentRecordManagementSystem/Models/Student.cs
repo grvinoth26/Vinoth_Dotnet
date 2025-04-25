@@ -18,5 +18,6 @@ namespace StudentRecordManagementSystem.Models
         [Required]
         public string Mobile { set; get; }
         public string Address { set; get; }
+        public string? ImageFileName { get; set; }
     }
 }
