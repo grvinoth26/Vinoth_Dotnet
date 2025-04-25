@@ -35,11 +35,11 @@
         <div class="text-center">
             @if (!string.IsNullOrEmpty(Model.ImageFileName))
             {
-                <img src="@Model.ImageFileName" alt="Random Student Photo" class="img-fluid" style="width: 600px; height: auto;" />
+                <img src="@Model.ImageFileName" alt="Random Student Photo" class="img-thumbnail" style="width: 300px; height: auto;" />
             }
             else
             {
-                <img src="@Url.Content("~/images/banner2.svg")" alt="Default Photo" class="img-fluid" style="width: 600px; height: auto;" />
+                <img src="@Url.Content("~/images/banner2.svg")" alt="Default Photo" class="img-thumbnail" style="width: 300px; height: auto;" />
             }
         </div>
 
