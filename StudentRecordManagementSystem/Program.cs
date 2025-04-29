@@ -2,8 +2,13 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging.AzureAppServices;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Initialize ConnectionString
+StudentRecordManagementSystem.Utility.ConnectionString.Initialize(builder.Configuration);
 
 // Add services to the container
 builder.Services.Configure<CookiePolicyOptions>(options =>
@@ -15,6 +20,12 @@ builder.Services.Configure<CookiePolicyOptions>(options =>
 builder.Services.AddControllersWithViews(); // This replaces AddMvc()
 
 var app = builder.Build();
+
+builder.Services.AddLogging(logging =>
+{
+    logging.AddConsole();
+    logging.AddAzureWebAppDiagnostics();
+});
 
 // Configure the HTTP request pipeline
 if (app.Environment.IsDevelopment())

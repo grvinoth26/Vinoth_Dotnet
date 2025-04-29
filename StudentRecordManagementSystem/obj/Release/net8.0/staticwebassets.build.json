@@ -1,0 +1,4245 @@
+{
+  "Version": 1,
+  "Hash": "TtbnRRA0LHWiHsx/Hs1vx2FwhCDh73xa1Hy0aqO0CI0=",
+  "Source": "StudentRecordManagementSystem",
+  "BasePath": "_content/StudentRecordManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StudentRecordManagementSystem\\wwwroot",
+      "Source": "StudentRecordManagementSystem",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\css\\site.css",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4oh4j1jkky",
+      "Integrity": "jAZ0VE2ddQ211W7kJ/p+4s2VB6V5WUKgWvjP0qdKYLo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\css\\site.min.css",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "css/site.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8qo50a92ce",
+      "Integrity": "kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr+OuAO90E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\favicon.ico",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90yqlj465b",
+      "Integrity": "qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\images\\banner1.svg",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "images/banner1#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v6jnq5ttib",
+      "Integrity": "GaE/EmkeBf+yBbrJ26lpkGd4jkOSh1eVKJaNOw9I4uk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner1.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\images\\banner2.svg",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "images/banner2#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "htbl0vvztd",
+      "Integrity": "60TgRUjPDlTKrCHTI/KjwzfC3Q1Vn13XT2aAYMbYT2o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner2.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\images\\banner3.svg",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "images/banner3#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w24zs667xn",
+      "Integrity": "aJNxc7a4CqF4NF5VHFqWt59nF8aJeRt5DJ9epDvWtUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner3.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\js\\site.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6b9nfc4n3r",
+      "Integrity": "4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\js\\site.min.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "js/site.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/.bower#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qc5bpo1mh7",
+      "Integrity": "JmdimJiZOuey/7Otf64209X9btLVRCk+jA1T/bxest8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\.bower.json"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ahjbid90mr",
+      "Integrity": "opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o3yzcp43z9",
+      "Integrity": "nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ufik3s9dum",
+      "Integrity": "Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wrmkol24q7",
+      "Integrity": "tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3zatgav9ba",
+      "Integrity": "MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1gzojq7jip",
+      "Integrity": "cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ruze9sgfm",
+      "Integrity": "iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g210lhpolz",
+      "Integrity": "mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "torz25362b",
+      "Integrity": "E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r3m9qmfdw3",
+      "Integrity": "2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "li0e4nnnks",
+      "Integrity": "45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qqew9mh6jt",
+      "Integrity": "omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y3zdydnkm9",
+      "Integrity": "/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dulpgot2b4",
+      "Integrity": "1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "euzfjcw9e7",
+      "Integrity": "NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/dist/js/npm#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4sgu2tw5my",
+      "Integrity": "jDnrHtvYDYrapYHcRXkqEnG9GHxO/w5ajRkFsAeRFGk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qj8ig4ubvq",
+      "Integrity": "OsTm3rkkqzWTSzagPx9ET4hYekiY+/zYAcKxztu24Yc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\.bower.json",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery/.bower#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ewsoquf6rw",
+      "Integrity": "slWiUvWRfuryzqGBCpCY3cOD8m7nYDNr2WhuVPSJif0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\.bower.json"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a8eee2794i",
+      "Integrity": "igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fc9074g7ds",
+      "Integrity": "T+aPohYXbm0fRYDpJLr+zJ9RmYTswGsahAoIsNiMld4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b804xvqo1w",
+      "Integrity": "1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afgyafcsqt",
+      "Integrity": "WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery-validation/.bower#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l5mpl4bjng",
+      "Integrity": "aXEC2O2ywRlKidCfcuruYzisoY4848tQF7gFu69FHRA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\.bower.json"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wus95c49fh",
+      "Integrity": "qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sjab29p8z5",
+      "Integrity": "2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d2pxujwhw3",
+      "Integrity": "27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4dm14o4hmc",
+      "Integrity": "eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0q3zqp4vz",
+      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery-validation-unobtrusive/.bower#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "21vr2boczr",
+      "Integrity": "KlwQLO+1B2S1tk/ZCFcIZP1OuK8wgm2gtyycO0Zf5cs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t3np89y583",
+      "Integrity": "OW3aZDab5rtK8Nyc5oze2QHyeawrzFaRr7Hybv8+fXM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l0xqxslevh",
+      "Integrity": "paoxpct33kY9fpQlvgC8IokjGq8iqYaVFawgFPg8oz0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "StudentRecordManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentRecordManagementSystem",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wqejeusuyq",
+      "Integrity": "aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.4oh4j1jkky.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jAZ0VE2ddQ211W7kJ/p+4s2VB6V5WUKgWvjP0qdKYLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4oh4j1jkky"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jAZ0VE2ddQ211W7kJ/p+4s2VB6V5WUKgWvjP0qdKYLo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jAZ0VE2ddQ211W7kJ/p+4s2VB6V5WUKgWvjP0qdKYLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jAZ0VE2ddQ211W7kJ/p+4s2VB6V5WUKgWvjP0qdKYLo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.8qo50a92ce.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\css\\site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr+OuAO90E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8qo50a92ce"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr+OuAO90E="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\css\\site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr+OuAO90E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr+OuAO90E="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.90yqlj465b.ico",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90yqlj465b"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner1.svg",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\images\\banner1.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GaE/EmkeBf+yBbrJ26lpkGd4jkOSh1eVKJaNOw9I4uk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GaE/EmkeBf+yBbrJ26lpkGd4jkOSh1eVKJaNOw9I4uk="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner1.v6jnq5ttib.svg",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\images\\banner1.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GaE/EmkeBf+yBbrJ26lpkGd4jkOSh1eVKJaNOw9I4uk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v6jnq5ttib"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner1.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GaE/EmkeBf+yBbrJ26lpkGd4jkOSh1eVKJaNOw9I4uk="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner2.htbl0vvztd.svg",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\images\\banner2.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"60TgRUjPDlTKrCHTI/KjwzfC3Q1Vn13XT2aAYMbYT2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "htbl0vvztd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner2.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-60TgRUjPDlTKrCHTI/KjwzfC3Q1Vn13XT2aAYMbYT2o="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner2.svg",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\images\\banner2.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"60TgRUjPDlTKrCHTI/KjwzfC3Q1Vn13XT2aAYMbYT2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-60TgRUjPDlTKrCHTI/KjwzfC3Q1Vn13XT2aAYMbYT2o="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner3.svg",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\images\\banner3.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aJNxc7a4CqF4NF5VHFqWt59nF8aJeRt5DJ9epDvWtUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aJNxc7a4CqF4NF5VHFqWt59nF8aJeRt5DJ9epDvWtUE="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner3.w24zs667xn.svg",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\images\\banner3.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aJNxc7a4CqF4NF5VHFqWt59nF8aJeRt5DJ9epDvWtUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w24zs667xn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner3.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aJNxc7a4CqF4NF5VHFqWt59nF8aJeRt5DJ9epDvWtUE="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.6b9nfc4n3r.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6b9nfc4n3r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.min.5ipweew5fc.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\js\\site.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.min.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\js\\site.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/.bower.json",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JmdimJiZOuey/7Otf64209X9btLVRCk+jA1T/bxest8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JmdimJiZOuey/7Otf64209X9btLVRCk+jA1T/bxest8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/.bower.qc5bpo1mh7.json",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JmdimJiZOuey/7Otf64209X9btLVRCk+jA1T/bxest8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qc5bpo1mh7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/.bower.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JmdimJiZOuey/7Otf64209X9btLVRCk+jA1T/bxest8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.ahjbid90mr.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ahjbid90mr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.o3yzcp43z9.map",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o3yzcp43z9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "542194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.wrmkol24q7.map",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "542194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wrmkol24q7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.ufik3s9dum.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ufik3s9dum"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.3zatgav9ba.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3zatgav9ba"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.1gzojq7jip.map",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1gzojq7jip"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.9ruze9sgfm.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ruze9sgfm"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.g210lhpolz.map",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g210lhpolz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.li0e4nnnks.ttf",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "li0e4nnnks"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.qqew9mh6jt.woff",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qqew9mh6jt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.r3m9qmfdw3.svg",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r3m9qmfdw3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.torz25362b.eot",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "torz25362b"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.y3zdydnkm9.woff2",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y3zdydnkm9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.dulpgot2b4.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dulpgot2b4"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.euzfjcw9e7.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "euzfjcw9e7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/npm.4sgu2tw5my.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jDnrHtvYDYrapYHcRXkqEnG9GHxO/w5ajRkFsAeRFGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4sgu2tw5my"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/npm.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jDnrHtvYDYrapYHcRXkqEnG9GHxO/w5ajRkFsAeRFGk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/npm.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jDnrHtvYDYrapYHcRXkqEnG9GHxO/w5ajRkFsAeRFGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jDnrHtvYDYrapYHcRXkqEnG9GHxO/w5ajRkFsAeRFGk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OsTm3rkkqzWTSzagPx9ET4hYekiY+/zYAcKxztu24Yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OsTm3rkkqzWTSzagPx9ET4hYekiY+/zYAcKxztu24Yc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE.qj8ig4ubvq",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OsTm3rkkqzWTSzagPx9ET4hYekiY+/zYAcKxztu24Yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qj8ig4ubvq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OsTm3rkkqzWTSzagPx9ET4hYekiY+/zYAcKxztu24Yc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/.bower.ewsoquf6rw.json",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slWiUvWRfuryzqGBCpCY3cOD8m7nYDNr2WhuVPSJif0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ewsoquf6rw"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/.bower.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-slWiUvWRfuryzqGBCpCY3cOD8m7nYDNr2WhuVPSJif0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/.bower.json",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slWiUvWRfuryzqGBCpCY3cOD8m7nYDNr2WhuVPSJif0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-slWiUvWRfuryzqGBCpCY3cOD8m7nYDNr2WhuVPSJif0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.a8eee2794i.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a8eee2794i"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.b804xvqo1w.map",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b804xvqo1w"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.fc9074g7ds.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T+aPohYXbm0fRYDpJLr+zJ9RmYTswGsahAoIsNiMld4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fc9074g7ds"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T+aPohYXbm0fRYDpJLr+zJ9RmYTswGsahAoIsNiMld4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T+aPohYXbm0fRYDpJLr+zJ9RmYTswGsahAoIsNiMld4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T+aPohYXbm0fRYDpJLr+zJ9RmYTswGsahAoIsNiMld4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afgyafcsqt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/.bower.json",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aXEC2O2ywRlKidCfcuruYzisoY4848tQF7gFu69FHRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aXEC2O2ywRlKidCfcuruYzisoY4848tQF7gFu69FHRA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/.bower.l5mpl4bjng.json",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aXEC2O2ywRlKidCfcuruYzisoY4848tQF7gFu69FHRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l5mpl4bjng"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/.bower.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aXEC2O2ywRlKidCfcuruYzisoY4848tQF7gFu69FHRA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjab29p8z5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wus95c49fh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d2pxujwhw3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dm14o4hmc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.md",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0q3zqp4vz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/.bower.21vr2boczr.json",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KlwQLO+1B2S1tk/ZCFcIZP1OuK8wgm2gtyycO0Zf5cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "21vr2boczr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/.bower.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KlwQLO+1B2S1tk/ZCFcIZP1OuK8wgm2gtyycO0Zf5cs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/.bower.json",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KlwQLO+1B2S1tk/ZCFcIZP1OuK8wgm2gtyycO0Zf5cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KlwQLO+1B2S1tk/ZCFcIZP1OuK8wgm2gtyycO0Zf5cs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OW3aZDab5rtK8Nyc5oze2QHyeawrzFaRr7Hybv8+fXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OW3aZDab5rtK8Nyc5oze2QHyeawrzFaRr7Hybv8+fXM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"paoxpct33kY9fpQlvgC8IokjGq8iqYaVFawgFPg8oz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-paoxpct33kY9fpQlvgC8IokjGq8iqYaVFawgFPg8oz0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.l0xqxslevh.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"paoxpct33kY9fpQlvgC8IokjGq8iqYaVFawgFPg8oz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l0xqxslevh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-paoxpct33kY9fpQlvgC8IokjGq8iqYaVFawgFPg8oz0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.t3np89y583.js",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OW3aZDab5rtK8Nyc5oze2QHyeawrzFaRr7Hybv8+fXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3np89y583"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OW3aZDab5rtK8Nyc5oze2QHyeawrzFaRr7Hybv8+fXM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
+      "AssetFile": "C:\\Users\\Vinoth\\Source\\Repos\\CRUDSample\\StudentRecordManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 03:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqejeusuyq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    }
+  ]
+}

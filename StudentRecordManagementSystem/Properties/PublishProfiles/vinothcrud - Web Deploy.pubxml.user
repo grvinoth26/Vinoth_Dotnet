@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2025-04-29T12:49:29.9461284Z||;True|2025-04-29T18:17:34.4285147+05:30||;True|2025-04-29T18:13:08.4584282+05:30||;True|2025-04-29T14:04:34.4591489+05:30||;True|2025-04-29T13:48:29.8463089+05:30||;True|2025-04-29T13:09:04.1900151+05:30||;True|2025-04-29T09:01:14.5079802+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=studentrecordmanagementsystemdbserver.database.windows.net,1433;Initial Catalog=AzureStudentdb;Authentication=ActiveDirectoryManagedIdentity" />
+    <AzureDBConnectionStrings Include="Data Source=studentrecordmanagementsystemdbserver.database.windows.net,1433;Initial Catalog=EmployeeAzureDB;Authentication=ActiveDirectoryManagedIdentity" />
+    <AzureDBConnectionStrings Include="Server=tcp:studentrecordmanagementsystemdbserver.database.windows.net;Authentication=Active Directory Default;Database=AzureStudentdb" />
+    <AzureDBConnectionStrings Include="Server=tcp:studentrecordmanagementsystemdbserver.database.windows.net;Authentication=Active Directory Default;Database=EmployeeAzureDB" />
+  </ItemGroup>
+</Project>
